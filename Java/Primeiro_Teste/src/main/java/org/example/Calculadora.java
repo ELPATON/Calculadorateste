@@ -1,0 +1,17 @@
+package org.example;
+
+public class Calculadora {
+    public double somar(double a, double b){
+        return a + b;
+    }
+
+    public double subitrair(double a, double b){
+        return a - b;
+    }
+    public double multiplicar(double a, double b){
+        return a * b;
+    }
+    public double dividir(double a, double b){
+        return a / b;
+    }
+}
